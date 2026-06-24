@@ -2,3 +2,19 @@ archive/*
 *.xlsx
 *.pyc
 *.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Vercel
+.vercel/
+
+# Environment
+.env
+.env.local
+.vercel
